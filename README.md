@@ -1,3 +1,3 @@
-# Timers
+# time-it
 
-A React App for keeping track of time with multiple timer.
+manage your time using time-it.
