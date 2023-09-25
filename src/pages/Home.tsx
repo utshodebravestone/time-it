@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 const Home: FC = () => (
   <div className="min-h-[88vh] w-full flex flex-col justify-center items-center">
     <div className="w-3/4 flex flex-col items-center">
-      <h1 className="w-full pb-3 mb-3 text-center text-6xl border-b border-slate-200">
-        Welcome to Timers
+      <h1 className="w-full pb-3 mb-3 text-center text-4xl border-b border-slate-200">
+        Welcome to time-it
       </h1>
       <p className="text-xl font-light text-center">
         Time is one of the most valuable thing that you have.

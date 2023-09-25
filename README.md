@@ -1,3 +1,3 @@
 # time-it
 
-manage your time using time-it.
+Manage your time with time-it.
